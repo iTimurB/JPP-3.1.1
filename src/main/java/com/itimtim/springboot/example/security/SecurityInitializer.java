@@ -1,4 +1,4 @@
-package com.itimtim.springboot.springbootbootstrap.security;
+package com.itimtim.springboot.example.security;
 
 import org.springframework.security.web.context.AbstractSecurityWebApplicationInitializer;
 

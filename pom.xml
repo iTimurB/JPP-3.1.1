@@ -11,9 +11,9 @@
     </parent>
 
     <groupId>com.itimtim.springboot</groupId>
-    <artifactId>springboot-bootstrap</artifactId>
+    <artifactId>springboot</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>3.1.2springboot_bootstrap</name>
+    <name>3.1.1springboot</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>
@@ -64,6 +64,14 @@
             <plugin>
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
+                <version>2.1.5.RELEASE</version>
+                <executions>
+                    <execution>
+                        <goals>
+                            <goal>repackage</goal>
+                        </goals>
+                    </execution>
+                </executions>
             </plugin>
         </plugins>
     </build>

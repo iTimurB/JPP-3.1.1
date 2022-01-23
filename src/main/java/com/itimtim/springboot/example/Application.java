@@ -1,4 +1,4 @@
-package com.itimtim.springboot.springbootbootstrap;
+package com.itimtim.springboot.example;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

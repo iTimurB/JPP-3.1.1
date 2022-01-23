@@ -1,6 +1,6 @@
-package com.itimtim.springboot.springbootbootstrap.dao;
+package com.itimtim.springboot.example.dao;
 
-import com.itimtim.springboot.springbootbootstrap.model.User;
+import com.itimtim.springboot.example.model.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.stereotype.Component;

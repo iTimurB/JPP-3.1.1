@@ -1,7 +1,7 @@
-package com.itimtim.springboot.springbootbootstrap.service;
+package com.itimtim.springboot.example.service;
 
-import com.itimtim.springboot.springbootbootstrap.model.Role;
-import com.itimtim.springboot.springbootbootstrap.model.User;
+import com.itimtim.springboot.example.model.Role;
+import com.itimtim.springboot.example.model.User;
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;
 import org.springframework.security.core.userdetails.UserDetails;

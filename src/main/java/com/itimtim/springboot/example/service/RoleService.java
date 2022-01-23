@@ -1,6 +1,6 @@
-package com.itimtim.springboot.springbootbootstrap.service;
+package com.itimtim.springboot.example.service;
 
-import com.itimtim.springboot.springbootbootstrap.model.Role;
+import com.itimtim.springboot.example.model.Role;
 
 import java.util.List;
 import java.util.Set;

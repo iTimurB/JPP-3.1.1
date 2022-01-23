@@ -1,8 +1,8 @@
-package com.itimtim.springboot.springbootbootstrap.controller;
+package com.itimtim.springboot.example.controller;
 
-import com.itimtim.springboot.springbootbootstrap.model.User;
-import com.itimtim.springboot.springbootbootstrap.service.RoleService;
-import com.itimtim.springboot.springbootbootstrap.service.UserService;
+import com.itimtim.springboot.example.model.User;
+import com.itimtim.springboot.example.service.RoleService;
+import com.itimtim.springboot.example.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.ModelMap;

@@ -1,7 +1,7 @@
-package com.itimtim.springboot.springbootbootstrap.service;
+package com.itimtim.springboot.example.service;
 
 
-import com.itimtim.springboot.springbootbootstrap.model.User;
+import com.itimtim.springboot.example.model.User;
 
 import java.util.List;
 

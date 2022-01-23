@@ -1,7 +1,7 @@
-package com.itimtim.springboot.springbootbootstrap.controller;
+package com.itimtim.springboot.example.controller;
 
-import com.itimtim.springboot.springbootbootstrap.model.User;
-import com.itimtim.springboot.springbootbootstrap.service.UserService;
+import com.itimtim.springboot.example.model.User;
+import com.itimtim.springboot.example.service.UserService;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.ModelMap;
 import org.springframework.web.bind.annotation.GetMapping;
